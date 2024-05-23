@@ -1,0 +1,99 @@
+﻿  Controller.cpp
+  Main.cpp
+D:\New folder\Project13\Project13\Controller.cpp(61,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\New folder\Project13\Project13\Controller.cpp(61,17): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+D:\New folder\Project13\Project13\Controller.cpp(61,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\New folder\Project13\Project13\View.h(17,15): error C2061: syntax error: identifier 'Player'
+  (compiling source file 'Main.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(12,19): error C2061: syntax error: identifier 'Player'
+  (compiling source file 'Main.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(13,19): error C2061: syntax error: identifier 'Player'
+  (compiling source file 'Main.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(14,38): error C2061: syntax error: identifier 'Player'
+  (compiling source file 'Main.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(15,21): error C2061: syntax error: identifier 'Player'
+  (compiling source file 'Main.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(18,12): error C3646: 'player1': unknown override specifier
+  (compiling source file 'Main.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(18,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Main.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(19,12): error C3646: 'player2': unknown override specifier
+  (compiling source file 'Main.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(19,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Main.cpp')
+  
+D:\New folder\Project13\Project13\Main.cpp(14,15): error C2660: 'Controller::run': function does not take 4 arguments
+  D:\New folder\Project13\Project13\Controller.h(14,10):
+  see declaration of 'Controller::run'
+  D:\New folder\Project13\Project13\Main.cpp(14,15):
+  while trying to match the argument list '(View, Board, Player, Player)'
+  
+  Player.cpp
+D:\New folder\Project13\Project13\View.h(17,15): error C2061: syntax error: identifier 'Player'
+  (compiling source file 'Player.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(12,19): error C2061: syntax error: identifier 'Player'
+  (compiling source file 'Player.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(13,19): error C2061: syntax error: identifier 'Player'
+  (compiling source file 'Player.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(14,38): error C2061: syntax error: identifier 'Player'
+  (compiling source file 'Player.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(15,21): error C2061: syntax error: identifier 'Player'
+  (compiling source file 'Player.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(18,12): error C3646: 'player1': unknown override specifier
+  (compiling source file 'Player.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(18,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Player.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(19,12): error C3646: 'player2': unknown override specifier
+  (compiling source file 'Player.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(19,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Player.cpp')
+  
+  View.cpp
+D:\New folder\Project13\Project13\Controller.h(12,19): error C2061: syntax error: identifier 'Player'
+  (compiling source file 'View.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(13,19): error C2061: syntax error: identifier 'Player'
+  (compiling source file 'View.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(14,14): error C2061: syntax error: identifier 'View'
+  (compiling source file 'View.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(15,21): error C2061: syntax error: identifier 'Player'
+  (compiling source file 'View.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(17,10): error C3646: 'view': unknown override specifier
+  (compiling source file 'View.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(17,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'View.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(18,12): error C3646: 'player1': unknown override specifier
+  (compiling source file 'View.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(18,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'View.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(19,12): error C3646: 'player2': unknown override specifier
+  (compiling source file 'View.cpp')
+  
+D:\New folder\Project13\Project13\Controller.h(19,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'View.cpp')
+  
+  Generating Code...
+D:\New folder\Project13\Project13\Controller.cpp(44,1): warning C4715: 'Controller::checkWin': not all control paths return a value

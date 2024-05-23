@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\Project13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50464515-34B9-4132-B3BD-464E3033F2CB}|Project13\\Project13.vcxproj|D:\\New folder\\Project13\\Project13\\Controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50464515-34B9-4132-B3BD-464E3033F2CB}|Project13\\Project13.vcxproj|solutionrelative:Project13\\Controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50464515-34B9-4132-B3BD-464E3033F2CB}|Project13\\Project13.vcxproj|D:\\New folder\\Project13\\Project13\\View.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50464515-34B9-4132-B3BD-464E3033F2CB}|Project13\\Project13.vcxproj|solutionrelative:Project13\\View.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50464515-34B9-4132-B3BD-464E3033F2CB}|Project13\\Project13.vcxproj|D:\\New folder\\Project13\\Project13\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50464515-34B9-4132-B3BD-464E3033F2CB}|Project13\\Project13.vcxproj|solutionrelative:Project13\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50464515-34B9-4132-B3BD-464E3033F2CB}|Project13\\Project13.vcxproj|D:\\New folder\\Project13\\Project13\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50464515-34B9-4132-B3BD-464E3033F2CB}|Project13\\Project13.vcxproj|solutionrelative:Project13\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50464515-34B9-4132-B3BD-464E3033F2CB}|Project13\\Project13.vcxproj|D:\\New folder\\Project13\\Project13\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50464515-34B9-4132-B3BD-464E3033F2CB}|Project13\\Project13.vcxproj|solutionrelative:Project13\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50464515-34B9-4132-B3BD-464E3033F2CB}|Project13\\Project13.vcxproj|D:\\New folder\\Project13\\Project13\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50464515-34B9-4132-B3BD-464E3033F2CB}|Project13\\Project13.vcxproj|solutionrelative:Project13\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50464515-34B9-4132-B3BD-464E3033F2CB}|Project13\\Project13.vcxproj|D:\\New folder\\Project13\\Project13\\View.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50464515-34B9-4132-B3BD-464E3033F2CB}|Project13\\Project13.vcxproj|solutionrelative:Project13\\View.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50464515-34B9-4132-B3BD-464E3033F2CB}|Project13\\Project13.vcxproj|D:\\New folder\\Project13\\Project13\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50464515-34B9-4132-B3BD-464E3033F2CB}|Project13\\Project13.vcxproj|solutionrelative:Project13\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 28,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 372,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Board.cpp",
+              "DocumentMoniker": "D:\\New folder\\Project13\\Project13\\Board.cpp",
+              "RelativeDocumentMoniker": "Project13\\Board.cpp",
+              "ToolTip": "D:\\New folder\\Project13\\Project13\\Board.cpp",
+              "RelativeToolTip": "Project13\\Board.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T03:42:02.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "View.cpp",
+              "DocumentMoniker": "D:\\New folder\\Project13\\Project13\\View.cpp",
+              "RelativeDocumentMoniker": "Project13\\View.cpp",
+              "ToolTip": "D:\\New folder\\Project13\\Project13\\View.cpp",
+              "RelativeToolTip": "Project13\\View.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T02:30:19.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\New folder\\Project13\\Project13\\Player.cpp",
+              "RelativeDocumentMoniker": "Project13\\Player.cpp",
+              "ToolTip": "D:\\New folder\\Project13\\Project13\\Player.cpp",
+              "RelativeToolTip": "Project13\\Player.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T03:57:12.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\New folder\\Project13\\Project13\\Main.cpp",
+              "RelativeDocumentMoniker": "Project13\\Main.cpp",
+              "ToolTip": "D:\\New folder\\Project13\\Project13\\Main.cpp",
+              "RelativeToolTip": "Project13\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T02:29:47.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cpp",
+              "DocumentMoniker": "D:\\New folder\\Project13\\Project13\\Controller.cpp",
+              "RelativeDocumentMoniker": "Project13\\Controller.cpp",
+              "ToolTip": "D:\\New folder\\Project13\\Project13\\Controller.cpp",
+              "RelativeToolTip": "Project13\\Controller.cpp",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T03:48:46.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\New folder\\Project13\\Project13\\Player.h",
+              "RelativeDocumentMoniker": "Project13\\Player.h",
+              "ToolTip": "D:\\New folder\\Project13\\Project13\\Player.h",
+              "RelativeToolTip": "Project13\\Player.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-07T05:05:07.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "View.h",
+              "DocumentMoniker": "D:\\New folder\\Project13\\Project13\\View.h",
+              "RelativeDocumentMoniker": "Project13\\View.h",
+              "ToolTip": "D:\\New folder\\Project13\\Project13\\View.h",
+              "RelativeToolTip": "Project13\\View.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-07T02:27:18.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Board.h",
+              "DocumentMoniker": "D:\\New folder\\Project13\\Project13\\Board.h",
+              "RelativeDocumentMoniker": "Project13\\Board.h",
+              "ToolTip": "D:\\New folder\\Project13\\Project13\\Board.h",
+              "RelativeToolTip": "Project13\\Board.h",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-07T04:48:13.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
